@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>地方性装修信息交流平台</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>地方性装修信息交流平台</h1>
+    <nav>
+      <ul>
+        <li><a href="#">首页</a></li>
+        <li><a href="#">商家</a></li>
+        <li><a href="#">商品</a></li>
+        <li><a href="#">服务</a></li>
+        <li><a href="#">关于我们</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="banner">
+      <h2>欢迎来到地方性装修信息交流平台</h2>
+      <p>这里有各种装修公司提供的商品和服务，帮助您打造美好的家居环境。</p>
+    </section>
+    <section class="search">
+      <h3>搜索商品和服务</h3>
+      <form>
+        <input type="text" placeholder="请输入关键词">
+        <button type="submit">搜索</button>
+      </form>
+    </section>
+    <section class="products">
+      <h3>推荐商品</h3>
+      <ul>
+        <li>
+          <a href="#"><img src="product1.jpg" alt="产品1"></a>
+          <h4>产品1</h4>
+          <p>描述产品1的详细信息和价格</p>
+          <a href="#">购买</a>
+        </li>
+        <li>
+          <a href="#"><img src="product2.jpg" alt="产品2"></a>
+          <h4>产品2</h4>
+          <p>描述产品2的详细信息和价格</p>
+          <a href="#">购买</a>
+        </li>
+        <li>
+          <a href="#"><img src="product3.jpg" alt="产品3"></a>
+          <h4>产品3</h4>
+          <p>描述产品3的详细信息和价格</p>
+          <a href="#">购买</a>
+        </li>
+      </ul>
+    </section>
+    <section class="services">
+      <h3>推荐服务</h3>
+      <ul>
+        <li>
+          <a href="#"><img src="service1.jpg" alt="服务1"></a>
+          <h4>服务1</h4>
+          <p>描述服务1的详细信息和价格</p>
+          <a href="#">购买</a>
+        </li>
+        <li>
+          <a href="#"><img src="service2.jpg" alt="服务2"></a>
+          <h4>服务2</h4>
+          <p>描述服务2的详细信息和价格</p>
+          <a href="#">购买</a>
+        </li>
+        <li>
+          <a href="#"><img src="service3.jpg" alt="服务3"></a>
+          <h4>服务3</h4>
+          <p>描述服务3的详细信息和价格</p>
+          <a href="#">
